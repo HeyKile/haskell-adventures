@@ -1,5 +1,4 @@
--- Kyle Bello
--- Assignment 8 - Sudoku Solver
+-- Kyle Bello - Sudoku Solver
 import Sudoku
 import Text.Printf (printf)
 import System.IO (hFlush, stdout)

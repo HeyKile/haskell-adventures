@@ -1,6 +1,4 @@
--- Kyle Bello
--- Functional Programming
--- Assignment 5: Cash Register
+-- Kyle Bello - Cash Register
 
 import System.IO ( hFlush, stdout )
 import Data.Char ()

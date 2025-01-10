@@ -1,6 +1,4 @@
--- Kyle Bello
--- Functional Programming Assignment 6
--- Huffman Encoder / Decoder
+-- Kyle Bello - Huffman Encoder / Decoder
 
 module HuffmanCoding (toHuffmanCode, fromHuffmanCode) where
 
